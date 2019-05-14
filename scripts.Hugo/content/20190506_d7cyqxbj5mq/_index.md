@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20190506_d7cyqxbj5mq.mp4" >}}
 
-     川普宣布所有中国产品将加25%关税 他下一步要做什么 这对中共意味著什么(一） 
-     https://www.youtube.com/watch?v=d7cYQxBJ5mQ 
      
+     https://www.youtube.com/watch?v=d7cYQxBJ5mQ 
+     川普宣布所有中国产品将加25%关税 他下一步要做什么 这对中共意味著什么(一） 
