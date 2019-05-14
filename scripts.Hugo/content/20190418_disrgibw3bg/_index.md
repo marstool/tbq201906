@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20190418_disrgibw3bg.mp4" >}}
 
      徠卡：獵手 Leica：the hunter 
-     https://www.youtube.com/watch?v=DISRGIBW3bg 
      
+     https://www.youtube.com/watch?v=DISRGIBW3bg 

@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20190205_2wzgasnxk4g.mp4" >}}
 
      
-     海外民运需要团结吗？ 
      https://www.youtube.com/watch?v=2wZGasNxk4g 
+     海外民运需要团结吗？ 
