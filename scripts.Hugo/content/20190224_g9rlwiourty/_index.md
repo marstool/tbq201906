@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20190224_g9rlwiourty.mp4" >}}
 
+     未来一周国内国际大事解读 
      
      https://www.youtube.com/watch?v=G9rlwiOuRTY 
-     未来一周国内国际大事解读 
